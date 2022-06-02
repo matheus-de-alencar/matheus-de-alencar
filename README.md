@@ -1,16 +1,10 @@
 Olá, eu sou o Matheus de Alencar!
 
-<div align="center">
-  <a href="https://github.com/matheus-de-alencar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-de-alencar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-alencar&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
 <a href="https://www.linkedin.com/in/matheus-de-alencar">
     <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=matheus-de-alencar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Matheus de Alencar" /></p>
     <p align="center">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheus-de-alencar&show_icons=true&theme=dracula" />
-    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-alencar&layout=compact&theme=dracula" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheus-de-alencar&show_icons=true&theme=dark" />
+    <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-alencar&layout=compact&theme=dark" />
   </p>
 </a>
   
