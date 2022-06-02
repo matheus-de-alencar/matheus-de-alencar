@@ -7,7 +7,7 @@ Olá, eu sou o Matheus de Alencar!
 </div>
 
 <a href="https://www.linkedin.com/in/matheus-de-alencar">
-    <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=odantasvictor&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Matheus de Alencar" /></p>
+    <p align="center"><img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=matheus-de-alencar&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="Matheus de Alencar" /></p>
     <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheus-de-alencar&show_icons=true&theme=dracula" />
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-alencar&layout=compact&theme=dracula" />
