@@ -27,5 +27,3 @@ Olá, eu sou o Matheus de Alencar!
   </div>
 
   <br>
-
-
