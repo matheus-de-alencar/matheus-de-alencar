@@ -1,7 +1,7 @@
 Olá, eu sou o Matheus de Alencar!
 
 <a href="https://www.linkedin.com/in/matheus-de-alencar">
-    <p align="center"><img height="150em" src="https://github-readme-streak-stats.herokuapp.com?user=matheus-de-alencar&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Matheus de Alencar" /></p>
+    <p align="center"><img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=matheus-de-alencar&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="Matheus de Alencar" /></p>
     <p align="center">
     <img height="130em" src="https://github-readme-stats.vercel.app/api?username=matheus-de-alencar&show_icons=true&theme=dark" />
     <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-de-alencar&layout=compact&theme=dark" />
@@ -10,12 +10,10 @@ Olá, eu sou o Matheus de Alencar!
   
   <br>
    
-<div style="display: inline_block" align="center">
-    
+<div style="display: inline_block" align="center">    
     <a href="https://www.linkedin.com/in/matheus-de-alencar" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/matheus-de-alencar" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
     <a href="https://t.me/matheusdealencar" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-   
 </div>
 
   <br>
